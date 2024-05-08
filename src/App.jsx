@@ -27,7 +27,7 @@ function App() {
           }}
           onClick={() => ref.current.scrollTo(3)}
           >
-            <h1>Hello </h1>
+            <h1>Hello Fariha</h1>
         </ParallaxLayer>
 
         <ParallaxLayer
@@ -53,7 +53,7 @@ function App() {
         speed={2}
         onClick={() => ref.current.scrollTo(0)}
         >
-          <h1>Little Fariha</h1>
+          <h1>Fariha & Snow</h1>
         </ParallaxLayer>
 
 
