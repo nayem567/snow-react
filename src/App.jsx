@@ -1,15 +1,13 @@
-import land from './land.png';
+// import land from './land.png';
 import cat from './cat.gif';
 import moon2 from './moon2.jpg';
-import moon3 from './moon3.jpg';
-import land2 from './land2.jpg';
+// import moon3 from './moon3.jpg';
+// import land2 from './land2.jpg';
 import land3 from './land.jpg';
-import shop from './shop.mp4';
+// import shop from './shop.mp4';
 
 
 
-
-import { animated } from "@react-spring/web";
 import { Parallax, ParallaxLayer } from "@react-spring/parallax";
 import { useRef } from 'react';
 
